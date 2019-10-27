@@ -5,12 +5,12 @@ The following project contains a Case Study done for predicting if a person will
 of time.
 
 Steps Performed:
-Data Preprocessing
-Logistic Regression
-Exporting the model
-Creating .py module
-Model Integration
-Tableau Visualization
+1) Data Preprocessing
+2) Logistic Regression
+3) Exporting the model
+4) Creating .py module
+5) Model Integration
+6) Tableau Visualization
 
 
 
