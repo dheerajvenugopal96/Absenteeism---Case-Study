@@ -14,6 +14,6 @@ Tableau Visualization
 
 
 
-Link toi Tableau Public :
+Link to Tableau Public :
 
 https://public.tableau.com/profile/dheeraj.venugopal#!/vizhome/CaseStudy-Absenteeism
